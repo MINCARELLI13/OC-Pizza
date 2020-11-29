@@ -1,0 +1,43 @@
+Méthodologies à utiliser
+
+Présentation un dossier de spécifications fonctionnelles :
+
+1) UML
+
+2) définir 2-3 persona
+
+3) rédiger un impact mapping : permet de définir les fonctionnalités selon le type d’utilisateurs
+
+4) diagrammes de cas d'utilisation UML : permet de définir une liste de fonctionnalités mais pas de l’expliquer en détail.
+
+5) description de scénarios selon UML ou bien de l’écriture de « User Story » selon les méthodes Agile : chaque fonctionnalité doit être bien détaillée dans les dossiers de spécifications fonctionnelles.  Il faut surtout bien détailler le chemin utilisateur, c’est-à-dire chaque étape que l’utilisateur suivra pour la fonctionnalité en question.
+
+6) Post-it : Penser à bien modéliser le processus de prise de commande dans le dossier de spécifications fonctionnelles.
+
+
+
+Inclure dans la présentation l’annonce de la solution technique avec une courte argumentation : 
+
+1) Lola aimerait bien aborder la question de la solution technique. Je l’ai prévenue qu’en termes de timing, ce ne sera pas possible de présenter un dossier de spécifications techniques pour ce jalon, mais qu’on lui donnera une orientation.
+
+2) vaut-il mieux du développement “from scratch” ou bien partir sur la base d’un CMS e-commerce.
+
+
+Livrables attendus :
+
+a- Un document (PDF) de spécifications fonctionnelles comprenant :	
+	- les différents acteurs interagissant avec le futur système ;
+	- la liste des fonctionnalités ;
+	- le descriptif des fonctionnalités ;
+	- le cycle de vie des commandes.
+
+b- Un document (PDF, diaporama) – sans formalisme particulier, mais un document à la présentation soignée – présentant rapidement la solution fonctionnelle et technique retenue ainsi que les arguments motivant ces choix.
+
+
+
+
+
+
+
+
+
